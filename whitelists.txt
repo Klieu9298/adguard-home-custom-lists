@@ -3,8 +3,11 @@ clients2.google.com
 s.youtube.com 
 video-stats.l.google.com
 googleapis.l.google.com
-dl.delivery.mp.microsoft.com geo-prod.do.dsp.mp.microsoft.com displaycatalog.mp.microsoft.com
-sls.update.microsoft.com.akadns.net fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+dl.delivery.mp.microsoft.com 
+geo-prod.do.dsp.mp.microsoft.com 
+displaycatalog.mp.microsoft.com
+sls.update.microsoft.com.akadns.net 
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 clientconfig.passport.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
