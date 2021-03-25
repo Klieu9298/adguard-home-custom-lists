@@ -1,0 +1,25 @@
+clients4.google.com 
+clients2.google.com
+s.youtube.com 
+video-stats.l.google.com
+googleapis.l.google.com
+dl.delivery.mp.microsoft.com geo-prod.do.dsp.mp.microsoft.com displaycatalog.mp.microsoft.com
+sls.update.microsoft.com.akadns.net fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+clientconfig.passport.net
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+arc.msn.com
+officeclient.microsoft.com
+appleid.apple.com
+captive.apple.com 
+gsp1.apple.com 
+www.apple.com 
+www.appleiphonecell.com
+gravatar.com # custom login pictures
+thetvdb.com # metadata for tv series
+themoviedb.com # metadata for movies
+chtbl.com # iHeart radio/Plex Podcast
+fpdownload.adobe.com 
+entitlement.auth.adobe.com 
+livepassdl.conviva.com
+tracking-protection.cdn.mozilla.net
