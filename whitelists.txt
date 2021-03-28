@@ -26,3 +26,5 @@ fpdownload.adobe.com
 entitlement.auth.adobe.com 
 livepassdl.conviva.com
 tracking-protection.cdn.mozilla.net
+app.plex.tv
+my.plexapp.com
